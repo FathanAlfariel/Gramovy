@@ -1,0 +1,15 @@
+[
+    {
+        "title": "Imagination", 
+        "img": "assets/as_it_was.jpg",
+        "duration": "1:21", 
+        "audio": "assets/songs/as_it_was.mp3"
+    },
+    {
+        "rating": "4.5",
+        "title": "Left And Right",
+        "text": "Charlie Puth",
+        "img": "assets/asitwas.jpg",
+        "audio": "assets/asitwas.mp3"
+    }
+]
